@@ -1,4 +1,4 @@
-# 📷 QR Code Generator with Logo (GUI)
+# 📷 QR Code Generator with Logo
 
 A modern, production-grade **QR Code Generator** built with Python.  
 It supports generating **multiple QR codes at once**, embedding a **custom logo in the center**,  
